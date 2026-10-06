@@ -1,3 +1,3 @@
 # PRIME ScreenCam releases
 
-Latest: v1.4.2 (2026-09-24T22:38:15Z)
+Latest: v1.5.0 (2026-10-06T19:24:13Z)
